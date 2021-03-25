@@ -20,7 +20,7 @@ Code is organised by region/monsoon feature:
 - *kitoh_uchiyama_2006.py*: Identify pentads of monsoon onset, withdrawal and peak based on Normalised Pentad Precipitation Index https://doi.org/10.2151/jmsj.84.247
 - *li_zhang_2009.py*: Identify pentads of monsoon onset and withdrawal based on wind rotation criteria https://doi.org/10.1007/s00382-008-0465-8
 - *yim_etal_2014_vorticity.py*: Evaluate vorticity/wind metrics as a proxy for intensity of various regional monsoons https://doi.org/10.1007/s00382-013-1956-9
-- *yim_etal_2014_precip.py*: Calculate regional monsoon precipitation intensities
+- *yim_etal_2014_precip.py*: Calculate regional monsoon precipitation intensities as per https://doi.org/10.1007/s00382-013-1956-9
 
 
 ## Work in progress:
