@@ -23,7 +23,7 @@ Code is organised by region/monsoon feature:
 - *yim_etal_2014_precip.py*: Calculate regional monsoon precipitation intensities as per https://doi.org/10.1007/s00382-013-1956-9
 
 
-## Work in progress:
+### Work in progress:
 - Clean up code further, aim to make input data format needed consistent
 - Add further tools as useful, e.g. list in https://doi.org/10.1175/2008JCLI2183.1 
 - Expand to South Asian and other regional monsoons
